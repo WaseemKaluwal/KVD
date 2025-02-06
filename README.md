@@ -25,7 +25,7 @@ Here's a detailed **README** for your **Kaluwal Video Downloader** project:
 
 ### 🔹 Step 1: Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/Kaluwal-Video-Downloader.git
+git clone https://github.com/WaseemKaluwal/KVD.git
 cd Kaluwal-Video-Downloader
 ```
 
