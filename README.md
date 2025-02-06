@@ -1,7 +1,3 @@
-Here's the updated **README** for your **Kaluwal Video Downloader** project in Python:
-
----
-
 # Kaluwal Video Downloader  
 
 ## Overview  
