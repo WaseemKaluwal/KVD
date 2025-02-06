@@ -1,11 +1,11 @@
-Here's a detailed **README** for your **Kaluwal Video Downloader** project:  
+Here's the updated **README** for your **Kaluwal Video Downloader** project in Python:
 
 ---
 
 # Kaluwal Video Downloader  
 
 ## Overview  
-**Kaluwal Video Downloader** is a **C# WinForms application** that allows users to download videos from popular social media platforms, including **YouTube, Instagram, TikTok, Facebook, and Twitter**. This tool provides an easy-to-use interface for fetching and saving videos in various formats and resolutions.  
+**Kaluwal Video Downloader** is a **Python application** that allows users to download videos from popular social media platforms, including **YouTube, Instagram, TikTok, Facebook, and Twitter**. This tool provides an easy-to-use command-line interface for fetching and saving videos in various formats and resolutions.  
 
 ## Features  
 ✅ **Download Videos from Multiple Platforms**: Supports **YouTube, Instagram, TikTok, Facebook, and Twitter**.  
@@ -13,32 +13,18 @@ Here's a detailed **README** for your **Kaluwal Video Downloader** project:
 ✅ **Audio Extraction**: Option to download videos as **MP3 or AAC audio files**.  
 ✅ **Batch Download Support**: Download multiple videos simultaneously.  
 ✅ **Fast & Secure**: Uses efficient algorithms for **quick downloads** with minimal bandwidth usage.  
-✅ **User-Friendly Interface**: Simple and clean UI for a seamless experience.  
+✅ **User-Friendly Command-Line Interface**: Simple and clean interface for a seamless experience.  
 ✅ **No Watermarks**: Download videos without platform-imposed watermarks (when supported).  
 
 ## System Requirements  
-- **.NET Framework 4.7+** or **.NET Core (Windows)**  
-- **C# Windows Forms (WinForms)**  
+- **Python 3.7+**  
+- **Required Libraries**: `youtube-dl`, `requests`, `pytube`, etc.  
 - **Internet Connection Required**  
 
-## Installation & Usage  
-
-### 🔹 Step 1: Clone the Repository  
-```sh
-git clone https://github.com/WaseemKaluwal/KVD.git
-cd Kaluwal-Video-Downloader
-```
-
-### 🔹 Step 2: Install Dependencies  
-- Open the **solution file (`.sln`)** in **Visual Studio**.  
-- Install required **NuGet packages** for video processing and downloading.  
-- Build and run the project.  
-
-### 🔹 Step 3: Download Videos  
-1. **Paste the video link** from YouTube, Instagram, TikTok, Facebook, or Twitter.  
-2. **Select the desired format** (MP4, MP3, AVI, etc.).  
-3. **Choose the resolution** (480p, 720p, 1080p, 4K).  
-4. Click **"Download"** and wait for the process to complete.  
+2. **Paste the video link** from YouTube, Instagram, TikTok, Facebook, or Twitter.  
+3. **Select the desired format** (MP4, MP3, AVI, etc.).  
+4. **Choose the resolution** (480p, 720p, 1080p, 4K).  
+5. Click **"Download"** and wait for the process to complete.  
 
 ## Supported Platforms & Limitations  
 | Platform  | Video Download | Audio Download | No Watermark Support |
@@ -65,4 +51,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-Let me know if you need modifications! 🚀
+This version of the README is now tailored for a **Python project**! Let me know if you need any further adjustments!
